@@ -1,0 +1,38 @@
+﻿body {background-color:#808080;
+}
+
+#content{
+	margin-left:10px;
+	margin-right:320px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border:thick;border-width:thick;border-style:hidden;
+	padding:20px;
+	font-family:"Comic Sans MS"
+}
+
+#sidebar{
+	background-color:orange;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	margin:10px;
+	border-radius:5px;
+	padding:20px;
+	font-size:15px;
+	float:right;
+	width:260px;
+	border:thick;
+	border-color:gray;
+	border-style:solid;
+	font-family:"Comic Sans MS"
+}
+
+#heading{
+	background-color:orange;
+}
+
+h1{
+	color:black;font-size:35px;font-style:oblique;font-family:"Comic Sans MS";
+}

@@ -1,0 +1,28 @@
+﻿body {
+background-image:url('../Images/Pictures/DonateToday.png');
+color:white;
+}
+
+#Menu{width:850px;margin:0px auto;
+    height: 34px;
+}
+#Menu ul{list-style:none;
+    height: 30px;
+}
+#Menu ul li{background-color:black;border:solid 1px #808080;width:250px;height:40px;text-align:center;line-height:35px;float:left;position:relative;}
+
+#Menu ul li a{text-decoration:none;color:white;display:block;
+    width: 257px;
+    height: 30px;
+    line-height:40px;
+    text-align:center;
+    font-size:15px;
+}
+
+#Menu ul li a:hover{background-color:#FF9900; color:white;border-radius:30px;}
+
+#Menu ul ul{position:absolute;display:none;}
+
+#Menu ul li> ul li{background-color:#669999;:color:#edeef8;border:solid 1px #808080;border-radius:30px;}
+
+#Menu ul li:hover > ul{display:block; border-radius:30px;}
